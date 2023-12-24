@@ -1,0 +1,99 @@
+.section-title {
+  text-align: center;
+  margin-top: 0px;
+}
+.section-title h2 {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+/* categories start  */
+
+.categories .category-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 30px;
+}
+/* categories end  */
+/* products start  */
+
+.products {
+  margin-bottom: 40px;
+}
+
+/* .products .product-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+} */
+/* products end  */
+/*campaign start  */
+.campaigns .campaigns-wrapper {
+  display: flex;
+  gap: 30px;
+  margin-top: 30px 0;
+  flex-wrap: wrap;
+}
+/* campaign end  */
+/* brands start  */
+.brands {
+  margin: 40px 0;
+}
+
+.brand-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  border: 1px solid #dee0ea;
+  padding: 30px 5px;
+}
+
+.brand-list .brand-item {
+  opacity: 0.4;
+  transition: 0.2s ease opacity;
+}
+.brand-list .brand-item:hover {
+  opacity: 1;
+}
+/*brands end  */
+/* policy start  */
+
+.policy {
+  border: 1px solid #dee0ea;
+  margin-top: 40px;
+}
+
+.policy .policy-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 25px 0;
+}
+
+.policy .policy-list .policy-item {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.policy .policy-item i {
+  font-size: 50px;
+  display: flex;
+}
+
+.policy .policy-item .policy-texts {
+  display: flex;
+  flex-direction: column;
+}
+
+.policy .policy-item .policy-texts strong {
+  font-weight: 600;
+}
+
+.policy .policy-item .policy-texts span {
+  font-size: 12px;
+}
+
+/*policy end  */

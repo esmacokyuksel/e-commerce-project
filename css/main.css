@@ -1,0 +1,21 @@
+@import url(layout/base.css);
+/* layout */
+@import url(layout/header.css);
+/* component */
+@import url(layout/components/modal-search.css);
+@import url(layout/components/slider.css);
+@import url(layout/category-item.css);
+@import url(layout/components/product-item.css);
+@import url(layout/components/campaign-item.css);
+@import url(layout/components/campaign-single.css);
+@import url(layout/footer.css);
+@import url(layout/components/modal-dialog.css);
+@import url(layout/components/reviews.css);
+@import url(layout/components/product-tabs.css);
+
+/* pages */
+@import url(layout/home.css);
+@import url(layout/contact.css);
+@import url(account.css);
+@import url(card.css);
+@import url(layout/single-product.css);

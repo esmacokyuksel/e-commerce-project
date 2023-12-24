@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "name": "Analogue Resin Strap",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 22,
+        "img": {
+            "singleImage": "images/1.jpeg",
+            "thumbs": [
+                "images/seki.jpeg"
+                
+            ]
+           
+        }
+    },
+    {
+        "id": 2,
+        "name": "Analogue Resin Strap",
+        "price": {
+            "oldPrice": 208.00,
+            "newPrice": 100
+        },
+        "discount": 33,
+        "img": {
+            "singleImage": "images/2.jpeg",
+            "thumbs": [
+                "images/rt.jpeg"
+                
+            ]
+            
+        }
+    },
+    {
+        "id": 3,
+        "name": "Analogue Resin Strap",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 38.00
+        },
+        "discount": 90,
+        "img": {
+            "singleImage": "images/3.jpeg",
+            "thumbs": [
+                "images/vi.jpeg"
+                
+            ]
+            
+        }
+    },
+    {
+        "id": 4,
+        "name": "Analogue Resin Strap",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "images/4.jpeg",
+            "thumbs": [
+                "images/go.jpeg"
+                
+            ]
+        }
+    }
+   
+]
